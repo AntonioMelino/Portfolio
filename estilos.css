@@ -201,6 +201,11 @@ html{
     border: solid #fff;
 }
 
+.proyectos .contenedor-proyectos a{
+    text-decoration: none;
+    color: #7dff04;
+}
+
 /* SECCION CONTACTO */
 .contacto{
     background-image: url(imagenes/fondoContacto.png);
